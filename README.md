@@ -1,16 +1,8 @@
 # weather_app
 
-A new Flutter project.
+Flutter project to dislay weather conditions based on current location.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+WeatherApp displays current, maximum and minimum temperature, humidity and wind speed.
+Also display the temperature throughout the day at different time intervals.
+![IMAGE 2023-03-27 15:25:44](https://user-images.githubusercontent.com/52417397/227908478-4bc4c523-818c-4425-ab1e-1229a84c0425.jpg)
+![IMAGE 2023-03-27 15:25:47](https://user-images.githubusercontent.com/52417397/227908492-caed9f7c-6419-497b-b970-19a08c471df6.jpg)
